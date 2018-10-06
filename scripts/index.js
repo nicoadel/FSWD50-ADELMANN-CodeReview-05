@@ -64,6 +64,13 @@ const itemsData = [{
 
         "photo": "http://www.coverwhiz.com/content/Harry-Potter-And-The-Chamber-Of-Secrets.jpg"
     },
+    {
+        "name": "Magicstuff",
+        "art": "Action",
+        "imdb": "9.1",
+
+        "photo": "http://www.coverwhiz.com/content/Harry-Potter-And-The-Chamber-Of-Secrets.jpg"
+    }
 
 ];
 dramaSort();
