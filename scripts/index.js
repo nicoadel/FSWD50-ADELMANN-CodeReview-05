@@ -107,8 +107,6 @@ function like() {
 }
 
 
-
-
 //------------------SORT ALGORITHM----------------//
 
 var action = $.grep(itemsData, function(element){

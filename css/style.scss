@@ -3,7 +3,7 @@
 }
 
 .block_element {
-    width: 310px;
+    width: 95%;
     height: 250px;
     background-color: grey;
     display: flex;
@@ -31,7 +31,7 @@
 
 @media only screen and (max-width: 640px) {
     .block_element {
-        width: 280px;
+        width: 95%;
         img{
             width:100px;
         }
