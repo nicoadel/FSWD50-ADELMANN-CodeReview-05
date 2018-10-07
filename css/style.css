@@ -2,22 +2,20 @@
   background-color: #ccc3c3; }
 
 .block_element {
-  width: 95%;
-  height: 250px;
+  width: 100%;
+  height: auto;
   background-color: grey;
   display: flex;
   margin: 20px; }
   .block_element img {
-    width: 130px; }
+    width: 130px;
+    height: 250px; }
   .block_element a {
     width: 170px; }
   .block_element .movie_description {
     display: flex;
     flex-flow: column;
     justify-content: space-around; }
-    .block_element .movie_description img {
-      width: 15px;
-      height: 15px; }
 
 @media only screen and (max-width: 640px) {
   .block_element {
